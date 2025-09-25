@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:block_destruct",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_alpha",
+        "texture": "atlas.terrain"
       }
     },
     "components": {

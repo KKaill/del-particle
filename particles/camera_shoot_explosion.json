@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:camera_shoot_explosion",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_alpha",
+        "texture": "textures/particle/particles"
       }
     },
     "components": {

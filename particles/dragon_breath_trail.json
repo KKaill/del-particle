@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:dragon_breath_trail",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_blend",
+        "texture": "textures/particle/particles"
       }
     },
     "components": {

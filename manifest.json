@@ -5,13 +5,13 @@
     "name": "Delete Particle",
     "uuid": "0409d09f-6ab8-4cae-96d2-bf29e354314d",
     "min_engine_version": [1, 13, 0],
-    "version": [1, 0, 1]
+    "version": [1, 0, 2]
   },
   "modules": [
     {
       "type": "resources",
       "uuid": "25a42d6f-384a-40b8-9dc8-07833ed00e7c",
-      "version": [1, 0, 1]
+      "version": [1, 0, 2]
     }
   ]
 }

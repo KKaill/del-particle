@@ -5,7 +5,7 @@
       "identifier": "minecraft:warden_dig",
       "basic_render_parameters": {
         "material": "particles_opaque",
-        "texture": "inv"
+        "texture": "atlas.terrain"
       }
     },
     "components": {

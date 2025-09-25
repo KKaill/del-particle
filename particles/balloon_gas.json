@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:balloon_gas_particle",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_blend",
+        "texture": "textures/particle/particles"
       }
     },
     "components": {

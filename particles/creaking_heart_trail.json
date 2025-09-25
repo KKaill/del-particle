@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:creaking_heart_trail",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_alpha",
+        "texture": "textures/particle/pixel"
       }
     },
     "components": {

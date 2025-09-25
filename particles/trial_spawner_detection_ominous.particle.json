@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:trial_spawner_detection_ominous",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_alpha",
+        "texture": "textures/particles/trial_spawner_ominous_atlas"
       }
     },
     "components": {

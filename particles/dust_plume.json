@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:dust_plume",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_alpha",
+        "texture": "textures/particle/particles"
       }
     },
     "components": {

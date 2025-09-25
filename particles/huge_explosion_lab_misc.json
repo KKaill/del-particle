@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:huge_explosion_lab_misc_emitter",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_alpha",
+        "texture": "textures/particle/particles"
       }
     },
     "components": {

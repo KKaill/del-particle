@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:portal_east_west",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_alpha",
+        "texture": "textures/particle/particles"
       }
     },
     "components": {

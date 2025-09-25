@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:vibration_signal",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_blend",
+        "texture": "textures/particle/vibration_signal"
       }
     },
     "components": {

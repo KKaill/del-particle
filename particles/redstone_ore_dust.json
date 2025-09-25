@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:redstone_ore_dust_particle",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_alpha",
+        "texture": "textures/particle/particles"
       }
     },
     "components": {

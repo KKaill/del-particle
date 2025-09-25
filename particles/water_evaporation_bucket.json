@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:water_evaporation_bucket_emitter",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_alpha",
+        "texture": "textures/particle/particles"
       }
     },
     "components": {

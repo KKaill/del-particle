@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:eyeblossom_open",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_alpha",
+        "texture": "textures/particle/pixel"
       }
     },
     "components": {

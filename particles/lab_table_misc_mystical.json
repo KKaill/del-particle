@@ -4,10 +4,11 @@
     "description": {
       "identifier": "minecraft:lab_table_misc_mystical_particle",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_alpha",
+        "texture": "textures/particle/particles"
       }
     },
+
     "components": {
       "minecraft:emitter_rate_instant": {
         "num_particles": 0

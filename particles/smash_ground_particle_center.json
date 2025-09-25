@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:smash_ground_particle_center",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_alpha",
+        "texture": "atlas.terrain"
       }
     },
     "components": {

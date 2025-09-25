@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:infested_ambient",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_blend",
+        "texture": "textures/particle/infested"
       }
     },
     "components": {

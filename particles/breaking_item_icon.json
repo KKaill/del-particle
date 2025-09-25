@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:breaking_item_icon",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_alpha",
+        "texture": "atlas.items"
       }
     },
     "components": {

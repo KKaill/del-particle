@@ -4,8 +4,8 @@
     "description": {
       "identifier": "minecraft:creaking_crumble_head",
       "basic_render_parameters": {
-        "material": "particles_opaque",
-        "texture": "inv"
+        "material": "particles_alpha",
+        "texture": "textures/blocks/creaking_heart_side_active"
       }
     },
     "components": {
