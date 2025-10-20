@@ -1,7 +1,7 @@
 {
   "format_version": 2,
   "header": {
-    "description": "v1.0.3\nその他のバージョンはhttps://github.com/KKaill/del-particle/releasesからダウンロードできます。",
+    "description": "このパックのバージョンは設定>ストレージ>リソースパックから確認できます",
     "name": "バニラのパーティクルを消す",
     "uuid": "0409d09f-6ab8-4cae-96d2-bf29e354314d",
     "min_engine_version": [1, 13, 0],
