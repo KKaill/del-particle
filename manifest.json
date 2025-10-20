@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "description": "パーティクルを消すリソースパック",
-    "name": "Delete Particle",
+    "description": "v1.0.3\nその他のバージョンはhttps://github.com/KKaill/del-particle/releasesからダウンロードできます。",
+    "name": "バニラのパーティクルを消す",
     "uuid": "0409d09f-6ab8-4cae-96d2-bf29e354314d",
     "min_engine_version": [1, 13, 0],
     "version": [1, 0, 3]
